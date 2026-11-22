@@ -1,0 +1,3 @@
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn com.google.crypto.tink.**
